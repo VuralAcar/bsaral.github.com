@@ -8,7 +8,8 @@ layout: nil
  * =============================================================================
  */
 body {
-background-color: #330000
+background-color: none;
+background-image:url('../chrome/13005944.jpg')
 
 }
 
