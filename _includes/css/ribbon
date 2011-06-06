@@ -8,7 +8,7 @@
  */
 
 .ribbon {
-  background-color: #9c0000;
+  background-color:#330066 ;
   overflow: hidden;
   /* top left corner */
   position: absolute;
