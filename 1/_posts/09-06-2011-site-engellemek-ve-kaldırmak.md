@@ -13,7 +13,7 @@ uçbirime
 
 komutunu yazarak hosts dosyamızı açıyoruz.
 
-açılan dosyaya sitenin ip adresini ve kendisini aşağıdaki gibi ekliyoruz.
+açılan dosyaya sitenin IP adresini ve kendisini aşağıdaki gibi ekliyoruz.
 
        0.0.0.0 http://www.omu.edu.tr 
        0.0.0.0 omu.edu.tr        
@@ -22,8 +22,8 @@ açılan dosyaya sitenin ip adresini ve kendisini aşağıdaki gibi ekliyoruz.
 
 
 
-bu şekilde düzenlediğimizde omu'nun ip adresi <code>0.0.0.0 </code> olmadığından bağlantı hatası verecek yani siteye giriş engellenmiş olunacaktır.eğer sitenin engellenmesini kaldırıp tekrar eski haline döndürmek
-istiyorsanız hosts dosyasında yazdığınız sitenin ip adresini ve kendisini silmeniz yeterlidir.
+bu şekilde düzenlediğimizde omu'nun IP adresi <code>0.0.0.0 </code> olmadığından bağlantı hatası verecek yani siteye giriş engellenmiş olunacaktır.eğer sitenin engellenmesini kaldırıp tekrar eski haline döndürmek
+istiyorsanız hosts dosyasında yazdığınız sitenin IP adresini ve kendisini silmeniz yeterlidir.
 
 <img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/2.png?raw=true"/>
 
@@ -33,7 +33,7 @@ istiyorsanız hosts dosyasında yazdığınız sitenin ip adresini ve kendisini 
 
 DNS değişikliği yapılmadan yasaklanmış siteler arasından sadece seçtiğiniz sitelere girmek için bu yöntem uygulanır.
 
-ilk önce sitenin ip adresi öğrenilir.(örn: yasaklı sitemiz <code>omu.edu.tr</code> olsun.)
+ilk önce sitenin IP adresi öğrenilir.(örn: yasaklı sitemiz <code>omu.edu.tr</code> olsun.)
 
 uçbirimi açıp
 
@@ -43,10 +43,11 @@ komutunu yazdığımızda siteye 1 adet ping göndermiş oluruz.
 
 <img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/3.png?raw=true"/>
 
-sonra hosts dosyası açılıp sitenin ip adresi eklenir.
+sonra hosts dosyası açılır.
 
-<code> sudo gedit /etc/hosts </code><br><br>
+<code> sudo gedit /etc/hosts </code>
 
+ve IP adresleri eklenir.
 
            193.140.28.7 http://www.omu.edu.tr
            193.140.28.7 omu.edu.tr
