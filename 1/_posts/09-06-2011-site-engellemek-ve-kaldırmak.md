@@ -43,6 +43,18 @@ komutunu yazdığımızda siteye 1 adet ping göndermiş oluruz.
 
 <img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/3.png?raw=true"/>
 
+sonra hosts dosyası açılıp sitenin ip adresi eklenir.
+
+<code> sudo gedit /etc/hosts </code>
+
+
+           193.140.28.7 http://www.omu.edu.tr
+           193.140.28.7 omu.edu.tr
+           193.140.28.7 www.omu.edu.tr
+           193.140.28.7 *.omu.edu.tr
+
+kaydedip çıktıktan sonra yasaklı sitemize ulaşabilir duruma gelmiş oluruz.
+
 
 
 
