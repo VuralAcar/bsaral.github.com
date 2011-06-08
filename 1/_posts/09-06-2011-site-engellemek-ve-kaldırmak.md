@@ -24,7 +24,7 @@ açılan dosyaya sitenin ip adresini ve kendisini aşağıdaki gibi ekliyoruz.
 
 bu şekilde düzenlediğimizde omu'nun ip adresi <code>0.0.0.0 </code> olmadığından bağlantı hatası verecek yani siteye giriş engellenmiş olunacaktır.
 
-<img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/1.png?raw=true"/>
+<img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/2.png?raw=true"/>
 
 
 
