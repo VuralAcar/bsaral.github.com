@@ -16,7 +16,7 @@ komutunu yazarak hosts dosyamızı açıyoruz.
 açılan dosyaya sitenin ip adresini ve kendisini aşağıdaki gibi ekliyoruz.
 
 <code> 0.0.0.0 http://www.omu.edu.tr </code>
-<code> 0.0.0.0 omu.edu.tr        </code>
+</code> 0.0.0.0 omu.edu.tr        </code>
 <code> 0.0.0.0 www.omu.edu.tr      </code>
 <code> 0.0.0.0 *.omu.edu.tr        </code>
 
