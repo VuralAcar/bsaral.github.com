@@ -45,7 +45,7 @@ komutunu yazdığımızda siteye 1 adet ping göndermiş oluruz.
 
 sonra hosts dosyası açılıp sitenin ip adresi eklenir.
 
-<code> sudo gedit /etc/hosts </code>
+<code> sudo gedit /etc/hosts </code><br><br>
 
 
            193.140.28.7 http://www.omu.edu.tr
