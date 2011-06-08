@@ -41,7 +41,7 @@ uçbirimi açıp
 
 komutunu yazdığımızda siteye 1 adet ping göndermiş oluruz.
 
-
+<img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/3.png?raw=true"/>
 
 
 
