@@ -9,6 +9,6 @@ Google profil sayesinde arama kutusuna isminiz girildiğinde profiliniz, sonuçl
 
 NOT=Google servislerinden yararlanabilmek için öncelikle gmail hesabına sahip olmanız gerekmektedir.
 
-profilinizi oluşturmak için ilk olarak aşağıdaki adrese giriyoruz.
-<a href="http://google.com/profiles/me">buraya </a>
+profilinizi oluşturmak için ilk olarak buraya <a href="http://google.com/profiles/me">tıklıyoruz. </a>
+
 
