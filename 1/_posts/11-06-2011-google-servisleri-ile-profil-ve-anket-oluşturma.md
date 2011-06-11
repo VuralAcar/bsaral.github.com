@@ -11,4 +11,8 @@ NOT=Google servislerinden yararlanabilmek için öncelikle gmail hesabına sahip
 
 profilinizi oluşturmak için ilk olarak buraya <a href="http://google.com/profiles/me">tıklıyoruz. </a>
 
+karşınıza şu sayfa geliyor.
+
+<img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/4.png?raw=true"/>
+
 
