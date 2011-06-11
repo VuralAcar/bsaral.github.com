@@ -24,9 +24,17 @@ Google'ın form şablonları ile anketler oluşturulabilir ve bunlar sayesinde i
 
 Anket oluşturmak için ilk iş <a href="http://docs.google.com"> buraya </a> tıklıyoruz.
 
-karşınıza google dökümanlar sayfası çıkıyor.bu sayfanın sol tarafında bulunan yeni oluştur butonuna basıp form seçeneğini seçiyoruz.
+karşınıza google dökümanlar sayfası çıkıyor.bu sayfanın sol tarafında bulunan yeni oluştur butonuna basıp form seçeneğine tıklıyoruz.
 
 <img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/5.png?raw=true"/>
+
+ve anket oluşturmak için gerekli olan sayfa karşımıza çıkar
+
+<img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/6.png?raw=true"/>
+
+text butonuna basarak anketi test şekline getirebilir yada başka seçeneklerden de yararlanabilirsiniz.eğer anket sorunuzun arka planını değiştirmek istiyorsanız üstte bulunan "theme:plain" butonuna basarak istediğiniz temanın oluşmasını sağlayabilirsiniz.ayrıca "theme:plain" butonu ile aynı hizada bulunan "Email this form" seçeneği ile postanızda bulunan istediğiniz kişiye bu anketi email olarak gönderebilirsiniz.
+
+herşey tamamlandıktan sonra gmail hesabınıza anketin oluştuğuna dair bir mail gelecektir.bu mailin içinde size bir site gönderilir.bu site sayesinde anketinizin sonuçlarını takip edebilirsiniz.
 
 
 
