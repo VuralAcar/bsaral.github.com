@@ -15,4 +15,6 @@ karşınıza şu sayfa geliyor.
 
 <img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/4.png?raw=true"/>
 
+profil oluştur ve devam et butonuna basıp bir sonraki aşamaya geçiyoruz.Açılan 2.penceredeki bilgileri doldurup kaydettikten sonra profilimiz oluşmuş oluyor.profilinize ne kadar çok bilgi eklerseniz, arama sonuçlarında da o kadar yukarıda görünürsünüz. 
+
 
