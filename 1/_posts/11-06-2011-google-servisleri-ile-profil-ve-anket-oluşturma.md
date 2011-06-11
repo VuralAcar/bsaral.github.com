@@ -5,4 +5,6 @@ title: Google servisleri ile profil ve anket oluşturma
 
 1-) GOOGLE PROFİL
 
-google profil sayesinde arama kutusuna isminiz girildiğinde profiliniz, sonuçlar sayfasında yer alacaktır.kişilerin sizi daha kolay bulabilmesi ve tanınmanız açısından kullanılacak güzel bir yöntemdir.
+Google profil sayesinde arama kutusuna isminiz girildiğinde profiliniz, sonuçlar sayfasında yer alacaktır.Kişilerin sizi daha kolay bulabilmesi ve tanınmanız açısından kullanılacak güzel bir yöntemdir.
+
+NOT=Google servislerinden yararlanabilmek için öncelikle gmail hesabına sahip olmanız gerekmektedir.
