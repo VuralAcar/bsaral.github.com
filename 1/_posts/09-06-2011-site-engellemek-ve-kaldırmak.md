@@ -3,7 +3,7 @@ layout: post
 title: Site engellemek ve engellemeleri kaldırmak
 ---
 
-1- SİTE ENGELLEME 
+###<a id="site-engelleme"> SİTE ENGELLEME </a> 
 
 engellemek istediğimiz site <code>omu.edu.tr</code> olsun.
 
@@ -29,7 +29,7 @@ istiyorsanız hosts dosyasında yazdığınız sitenin IP adresini ve kendisini 
 
 
 
-2-ENGELLENEN SİTEYE GİRİŞ
+###<a id="engel-kaldir"> ENGELLENEN SİTEYE GİRİŞ </a> 
 
 DNS değişikliği yapılmadan yasaklanmış siteler arasından sadece seçtiğiniz sitelere girmek için bu yöntem uygulanır.
 
