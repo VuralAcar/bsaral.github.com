@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google servisleri ile profil ve anket oluşturma
+title: Google Servisleri İle Profil Ve Anket Oluşturma
 ---
 
 ###<a id="Profil"> GOOGLE PROFİL </a> 

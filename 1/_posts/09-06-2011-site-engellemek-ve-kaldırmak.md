@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site engellemek ve engellemeleri kaldırmak
+title: Site Engellemek Ve Engellemeleri Kaldırmak
 ---
 
 ###<a id="site-engelleme"> SİTE ENGELLEME </a> 
