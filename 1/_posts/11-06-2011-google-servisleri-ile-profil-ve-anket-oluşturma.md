@@ -3,7 +3,7 @@ layout: post
 title: Google servisleri ile profil ve anket oluşturma
 ---
 
-1-) GOOGLE PROFİL
+###<a id="Profil"> GOOGLE PROFİL </a> 
 
 Google profil sayesinde arama kutusuna isminiz girildiğinde profiliniz, sonuçlar sayfasında yer alacaktır.Kişilerin sizi daha kolay bulabilmesi ve tanınmanız açısından kullanılacak güzel bir yöntemdir.
 
@@ -18,7 +18,7 @@ karşınıza şu sayfa geliyor.
 profil oluştur ve devam et butonuna basıp bir sonraki aşamaya geçiyoruz.Açılan 2.penceredeki bilgileri doldurup kaydettikten sonra profilimiz oluşmuş oluyor.Unutmayın ki profilinize ne kadar çok bilgi eklerseniz, arama sonuçlarında da o kadar yukarıda görünürsünüz. 
 
 
-2-) ANKET OLUŞTURMA
+###<a id="anket"> ANKET OLUŞTURMA </a> 
 
 Google'ın form şablonları ile anketler oluşturulabilir ve bunlar sayesinde istediğiniz verileri toplayabilirsiniz.
 
