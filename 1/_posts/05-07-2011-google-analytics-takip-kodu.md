@@ -17,6 +17,7 @@ eğer herşey doğru gitmişse karşınıza aşağıdaki gibi bir sayfa gelir.
 
 <img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/8.png?raw=true"/>
 
+2.bölümde sitenizin Google Analytics kodu yer alır.bu kodların tamamını kopyalayıp sitenizin html sindeki head tag ının kapanışından öncesine yerleştirmelisiniz.(tam olarak <head> BU ARADADA Kİ BOŞLUĞA </head> yerleştirmelisiniz.) 
 
 
 
