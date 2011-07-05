@@ -18,7 +18,7 @@ eğer herşey doğru gitmişse karşınıza aşağıdaki gibi bir sayfa gelir.
 <img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/8.png?raw=true"/>
 
 bu bölümde sitenizin Google Analytics kodu yer alır.bu kodların tamamını kopyalayıp sitenizin html sindeki head tag ının kapanışından öncesine yerleştirmelisiniz.(tam olarak  "head BU ARADADA Kİ BOŞLUĞA /head" yerleştiriniz.) işlemleri yaptıktan sonra save and finish e tıklayın.
-en 24 saat sonra sisteminiz aktif hale gelecektir.eğer süre 24 saati geçmişse ve hala sistem aktif değilse herhangi bir yerde hata yapmışsınız demektir.işlemleri baştan tekrarlayarak bu problemleri halledebilirsiniz.
+en az 24 saat sonra sisteminiz aktif hale gelecektir.eğer süre 24 saati geçmişse ve hala sistem aktif değilse herhangi bir yerde hata yapmışsınız demektir.işlemleri baştan tekrarlayarak bu problemleri halledebilirsiniz.
 
 
 
