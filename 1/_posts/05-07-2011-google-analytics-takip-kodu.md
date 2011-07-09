@@ -14,7 +14,7 @@ Google Analytics için önce <a href = "http://www.google.com/analytics/" target
 <img src="https://github.com/bsaral/bsaral.github.com/blob/master/images/7.png?raw=true" usemap="#resim"/>
 
 <map name="resim">
-  <area shape="rect"  alt="tıklayın" href="https://github.com/bsaral/bsaral.github.com/blob/master/images/aaa.png" />
+  <area shape="circle" coords="90,58,3"  alt="tıklayın" href="https://github.com/bsaral/bsaral.github.com/blob/master/images/aaa.png" />
 </map>
 
 eğer herşey doğru gitmişse karşınıza aşağıdaki gibi bir sayfa gelir.
