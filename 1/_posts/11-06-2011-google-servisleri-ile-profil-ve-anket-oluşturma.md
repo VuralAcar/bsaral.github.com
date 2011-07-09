@@ -9,7 +9,7 @@ Google profil sayesinde arama kutusuna isminiz girildiğinde profiliniz, sonuçl
 
 NOT=Google servislerinden yararlanabilmek için öncelikle gmail hesabına sahip olmanız gerekmektedir.
 
-profilinizi oluşturmak için ilk olarak <a href="http://google.com/profiles/me">buraya </a> tıklıyoruz.
+profilinizi oluşturmak için ilk olarak <a href="http://google.com/profiles/me" target="_blank">buraya </a> tıklıyoruz.
 
 karşınıza şu sayfa geliyor.
 
@@ -22,7 +22,7 @@ profil oluştur ve devam et butonuna basıp bir sonraki aşamaya geçiyoruz.Aç�
 
 Google'ın form şablonları ile anketler oluşturulabilir ve bunlar sayesinde istediğiniz verileri toplayabilirsiniz.
 
-Anket oluşturmak için ilk iş <a href="http://docs.google.com"> buraya </a> tıklıyoruz.
+Anket oluşturmak için ilk iş <a href="http://docs.google.com" target="_blank"> buraya </a> tıklıyoruz.
 
 karşınıza google dökümanlar sayfası çıkıyor.bu sayfanın sol tarafında bulunan yeni oluştur butonuna basıp form seçeneğine tıklıyoruz.
 
