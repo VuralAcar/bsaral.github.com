@@ -3,6 +3,6 @@
   position: relative;
   float: right;
   vertical-align: top;
-  width: 128px;
-  height: 128px;
+  width: 48px;
+  height: 48px;
 }
