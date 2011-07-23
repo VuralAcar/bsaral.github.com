@@ -1,6 +1,6 @@
 <!-- Navigator start -->
 {% capture section %}{% if page.section == null or page.section == "" %}{{ page.categories }}{% else %}{{ page.section }}{% endif %}{% endcapture %}
-<a href="{{ site.url }}/" title="Ön Sayfa" id="navtop"></a>
+<a href="{{ site.url }}/" title="Ana Sayfa" id="navtop"></a>
 
 <span class="navigator">
   {% for i in (1..10) %}
