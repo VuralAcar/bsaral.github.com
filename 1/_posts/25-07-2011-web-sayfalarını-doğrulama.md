@@ -4,7 +4,7 @@ title: Web Sayfalarını Doğrulama
 ---
 
 Site yapımında yazdığımız kodlarının doğruluğu önemlidir.Doğru bir kodlama ise, X(HTML)
-dökümanının onaylanmış halidir.web sayfalarını doğrulamak için genel olarak <a href="http://validator.w3.org/">bu adres </a> kullanılır.
+dökümanının onaylanmış halidir.web sayfalarını doğrulamak için genel olarak <a href="http://validator.w3.org/" target="_blank">bu adres </a> kullanılır.
 
 Karşınıza çıkan sayfada size 3 şık önerilir.
 
