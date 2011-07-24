@@ -8,7 +8,7 @@ dökümanının onaylanmış halidir.web sayfalarını doğrulamak için genel o
 
 Karşınıza çıkan sayfada size 3 şık önerilir.
 
-<img src = "/images/9.png" width="800" height="300"  />
+<img src = "/images/9.png" />
 
 
 <ul>
