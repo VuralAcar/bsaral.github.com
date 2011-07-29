@@ -9,7 +9,7 @@ layout: nil
  */
 body {
 background-color: none;
-background-image:url('../chrome/renkli.jpg')
+background-image:url('../chrome/renkli.jpg');
 background-repeat: no-repeat;
 background-attachment: fixed;
 
