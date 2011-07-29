@@ -13,7 +13,7 @@ GRUB, bir bilgisayarda yüklü bulunan bir ya da birden fazla işletim sistemini
 
 <img src="/images/grub.png"/>
 
-###<a id="#WİN-UBUNTU"> 2- Windows-Ubuntu Kurulu Bilgisayarlarda Ayarlar </a>
+###<a id="WİN-UBUNTU"> 2- Windows-Ubuntu Kurulu Bilgisayarlarda Ayarlar </a>
 
 Eğer ki Windows ile birlikte Ubuntuyu kurmuşsanız;
 
@@ -29,7 +29,7 @@ Gelen bilgilerden default değerini değiştirmeniz yeterli olacaktır.default d
 
 siz istediğiniz gibi değiştirebilirsiniz.eğer windowsu o sırada yapmak istiyorsanız ve GRUB ekranında (0 dan başlayarak) 3.sırada ise default değerini 3 yazmanız yeterli olur.
 
-###<a id="#WİN-PARDUS"> 3- Windows-Pardus Kurulu Bilgisayarlarda Ayarlar </a>
+###<a id="WİN-PARDUS"> 3- Windows-Pardus Kurulu Bilgisayarlarda Ayarlar </a>
 
 Eğer ki Windows ile birlikte Ubuntuyu kurmuşsanız;
 
