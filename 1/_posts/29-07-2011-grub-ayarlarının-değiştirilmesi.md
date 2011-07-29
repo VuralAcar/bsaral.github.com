@@ -11,5 +11,5 @@ title: Grub Ayarlarının Değiştirilmesi
 
 GRUB, bir bilgisayarda yüklü bulunan bir ya da birden fazla işletim sisteminin ön yükleme görevini yerine getiren bir ön yükleme yazılımıdır.Daha açık bir ifadeyle, bilgisayarı her açtığınızda karşınıza gelen işletim sistemi seçme ekranı GRUB'un ta kendisidir.
 
-<img src="images/grub.png">
+<img src="images/grub.png"/>
 
