@@ -65,7 +65,7 @@ param:
         # email adresi (ör. roktas@bil.omu.edu.tr)
         email: <a href ="mailto:betul.saral@bil.omu.edu.tr"> E-mail </a>
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
-        title: Bilgisayar Mühendisi
+        title: <a style="color:black"> Bilgisayar Mühendisi </a>
         # GnuPG kısa parmak izi (ör. DEADBEEF)
         gpg: ~
         # twitter adresi (ör. http://19.status.net/roktas)
