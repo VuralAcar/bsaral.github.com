@@ -1,4 +1,4 @@
-<div class="contact" style ="color:white">
+<div class="contact" style ="color:black">
   <p>
     {{ site.param.fullname }}<br />
     {{ site.param.title }}<br />
@@ -8,7 +8,7 @@
     {% endif %}
   </p>
 </div>
-<div class="contact"  style ="color:white">
+<div class="contact"  style ="color:black">
   <p>
     <a href="http://github.com/{{ site.account }}/">github.com/{{ site.account }}</a><br />
     <a href="{{ site.param.twitter }}/">{{ site.param.twitter }}</a><br />
