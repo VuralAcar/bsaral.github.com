@@ -61,11 +61,11 @@ param:
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
         user: bsaral
         # tam kullanıcı adı (ör. Recai Oktaş)
-        fullname: <a style="color:black"> Betül Saral </a>
+        fullname:  Betül Saral 
         # email adresi (ör. roktas@bil.omu.edu.tr)
         email: <a href ="mailto:betul.saral@bil.omu.edu.tr"> E-mail </a>
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
-        title: <a style="color:black"> Bilgisayar Mühendisi </a>
+        title:  Bilgisayar Mühendisi 
         # GnuPG kısa parmak izi (ör. DEADBEEF)
         gpg: ~
         # twitter adresi (ör. http://19.status.net/roktas)
