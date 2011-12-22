@@ -75,6 +75,6 @@ olan PHP dosyamızı oluşturalım :
 Eğer herşeyi doğru yapmışsanız kullanıcı form da bilgileri girdikten sonra ekrana "veri tabanı oluşturuldu" şeklinde bir yazı gelir.
 ekranda herhangi bir "hata" şeklinde yazı alıyorsanız yukardaki "hata" yazan kod sırasının herhangi birinde yanlış demektir.
 
-form.htm ==>  https://gist.github.com/1511957
-form.php ==>  https://gist.github.com/1511960
+<a href = "https://gist.github.com/1511957"> form.htm için tıklayınız </a><br>
+<a href ="https://gist.github.com/1511960"> form.php için tıklayınız </a>
 
