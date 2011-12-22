@@ -73,5 +73,5 @@ olan PHP dosyamızı oluşturalım :
 		?>
 		
 Eğer herşeyi doğru yapmışsanız kullanıcı form da bilgileri girdikten sonra ekrana "veri tabanı oluşturuldu" şeklinde bir yazı gelir.
-ekranda herhangi bir "hata" şeklinde yazı alıyorsanız yukardaki "hata" yazan kod sırasının herhangi birinde yanlış yapmışsınızdır.
+ekranda herhangi bir "hata" şeklinde yazı alıyorsanız yukardaki "hata" yazan kod sırasının herhangi birinde yanlış demektir.
 
