@@ -76,7 +76,7 @@ Eğer herşeyi doğru yapmışsanız kullanıcı form da bilgileri girdikten son
 ekranda herhangi bir "hata" şeklinde yazı alıyorsanız yukardaki "hata" yazan kod sırasının herhangi birinde yanlış demektir.
 
 form.htm için:
-<a href = "https://gist.github.com/1511957"> https://gist.github.com/1511957 </a></br>
+<a href = "https://gist.github.com/1511957"> https://gist.github.com/1511957 </a>
 
 form.php için :
 <a href ="https://gist.github.com/1511960"> https://gist.github.com/1511960 </a>
