@@ -47,9 +47,7 @@ sonra hosts dosyası açılır.
 
 ve IP adresleri eklenir.
 
-           193.140.28.7 http://www.omu.edu.tr
-           193.140.28.7 omu.edu.tr
-           193.140.28.7 www.omu.edu.tr
+           
            193.140.28.7 *.omu.edu.tr
 
 kaydedip çıktıktan sonra yasaklı sitemize ulaşabilir duruma gelmiş oluruz.
