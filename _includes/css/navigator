@@ -10,7 +10,7 @@
   display:inline-block;
   width: 48px;
   height: 48px;
-  margin-right: 3em;
+  margin-right: 5em;
 }
 
 /* navactive sections */
