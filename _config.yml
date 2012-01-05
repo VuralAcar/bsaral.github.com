@@ -63,7 +63,7 @@ param:
         # tam kullanıcı adı (ör. Recai Oktaş)
         fullname:  Betül Saral 
         # email adresi (ör. roktas@bil.omu.edu.tr)
-        email: <a href ="mailto:betul.saral@bil.omu.edu.tr"> E-mail </a>
+        email: betul.saral@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
         title:  Bilgisayar Mühendisi 
         # GnuPG kısa parmak izi (ör. DEADBEEF)
