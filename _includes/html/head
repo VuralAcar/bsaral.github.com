@@ -11,4 +11,4 @@
   <link rel="stylesheet" href="{{ site.url }}/chrome/syntax.css" type="text/css" />
   <link rel="stylesheet" href="{{ site.url }}/chrome/local.css"  type="text/css" media="screen, projection" />
 </head>
-<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false"/> 
+
