@@ -88,7 +88,7 @@ ul.posts {
   background-color: white;
   font-size: 110%;
   text-align: justify;
-  width: 50em;
+  width: 100em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
   -moz-background-clip:border;
@@ -141,8 +141,8 @@ ul.posts {
 
   .site .footer {
     font-size: 80%;
-    color: #666;
-    border-top: 4px solid #eee;
+    color: pink;
+    border-top: 20px solid #eee;
     margin-top: 2em;
     overflow: hidden;
   }
@@ -153,7 +153,7 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: red;
       }
 
     .site .footer .rss {
