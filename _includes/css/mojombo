@@ -91,10 +91,12 @@ ul.posts {
   width: 100em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
-  -moz-background-clip:border;
-  -moz-background-inline-policy:continuous;
-  -moz-background-origin:padding;
-  -moz-border-radius:0.4em 0.4em 0.4em 0.4em;
+  border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    -moz-border-radius-topright: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
   border:1px solid #bebebe;
   padding: 2em;
 }
