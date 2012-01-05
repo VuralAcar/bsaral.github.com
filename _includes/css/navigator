@@ -5,6 +5,10 @@
  */
 
 /* top */
+#resim {
+position : absolute; top:100px;left:100px;
+display:inline-block;
+}
 #navtop {
   background-image:url('chrome/bilgisayarcı.gif');
   display:inline-block;
