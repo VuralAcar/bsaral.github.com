@@ -5,17 +5,14 @@
  */
 
 /* top */
-#resim {
-background-image:url('chrome/isim.png');
-position : absolute; top:100px;left:100px;
-display:inline-block;
-}
+
 #navtop {
   background-image:url('chrome/bilgisayarcı.gif');
   display:inline-block;
   width: 48px;
   height: 48px;
   margin-right: 5em;
+  position : absolute; top:100px;left:100px;
 }
 
 /* navactive sections */
@@ -30,6 +27,7 @@ display:inline-block;
   display:inline-block;
   width: 32px;
   height: 32px;
+  
 }
 #navactive2 {
   background-image:url('huruf/2-red-32.png');
