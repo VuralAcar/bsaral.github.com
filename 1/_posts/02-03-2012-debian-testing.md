@@ -10,10 +10,10 @@ Temel kurulumu başarılı bir şekilde tamamlamış olduğunuzu ve sistemi baş
 Grafik arayüzüne geçilmesi için 3 komutun kullanılır.
 
 1-)
-	apt-get install x-window-system  
+	<code>apt-get install x-window-system </code>  
 
 2-)
-	apt-get install gdm
+	<code> apt-get install gdm </code>
 
 Bu komut ile Gnome Desktop Manager kurulacak. Gdm bizim oturum açmamız için kullanıcı adı ve şifre gireceğimiz güzel bir grafik karşılayıcıdır.
 
@@ -39,10 +39,7 @@ eğer komutları yazdığınızda "Debian E:unable to locate package sorunu" şe
 <a href = "http://mogutcan.github.com/902/Debian-E:-unable-to-locate-package-sorunu/"> buradan </a> ulaşabilirsiniz.
 
 <b>UYARI2:</b> 
-sistemde gedit,vim şeklinde editörleriniz bulunmuyorsa :
-<code>nano -Bw path </code>
-  
-ile nano editörünü kullanarak işlerinizi halledebilirsiniz.
+sistemde gedit,vim şeklinde editörleriniz bulunmuyorsa nano editörünü kullanarak işlerinizi halledebilirsiniz.
 
  
 
