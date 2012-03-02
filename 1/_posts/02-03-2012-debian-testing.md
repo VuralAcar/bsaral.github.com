@@ -40,7 +40,8 @@ eğer komutları yazdığınızda "Debian E:unable to locate package sorunu" şe
 
 <b>UYARI2:</b> 
 sistemde gedit,vim şeklinde editörleriniz bulunmuyorsa :
-	nano -Bw path  
+<code>nano -Bw path </code>
+  
 ile nano editörünü kullanarak işlerinizi halledebilirsiniz.
 
  
