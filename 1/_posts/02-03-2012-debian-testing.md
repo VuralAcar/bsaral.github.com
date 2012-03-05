@@ -41,5 +41,9 @@ eğer komutları yazdığınızda "Debian E:unable to locate package sorunu" şe
 <b>UYARI2:</b> 
 sistemde gedit,vim şeklinde editörleriniz bulunmuyorsa nano editörünü kullanarak işlerinizi halledebilirsiniz.
 
+<b> NOT : </b>
+Eğer yapılan değişikleri geri almak,kaldırmak istiyorsanız (örn:gnome grafik ortamını kaldıralım) ;
+<code> apt-get remove gnome </code> kodu ile halledebilirsiniz.
+
  
 
